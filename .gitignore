@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+
+# MacOS files
+.DS_Store
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Cache files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
